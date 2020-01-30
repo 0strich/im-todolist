@@ -1,0 +1,50 @@
+@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+#title{
+    text-align: center;
+    background-color: lightblue ;
+}
+
+.app {
+    padding: 30 30;
+}
+
+.group {
+    float: left;
+    background-color: lightgray;
+}
+
+.content {
+    float: right;
+    background-color: lightslategrey;
+}
+
+.mousePointer {
+    cursor: pointer;
+}
+
+.complete-watch {
+    float: right;
+}
+
+.float-right {
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
+.content-entry {
+    float: none;
+}
+
+.pad{
+    padding: 0px 10px;
+    widows: 335;
+    height: 38;
+}
+
+.entry {
+    border-bottom: 1px solid darkblue;
+}
